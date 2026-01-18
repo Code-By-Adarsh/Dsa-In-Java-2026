@@ -1,4 +1,4 @@
-# DSA with Java — 2026 (Day Wise Practice)
+# DSA In Java — 2026 (Day Wise Practice)
 
 > **No regret. Only result.**
 > Daily DSA practice using Java with day-wise code + output.
