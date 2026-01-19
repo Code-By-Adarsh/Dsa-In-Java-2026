@@ -90,5 +90,17 @@ public class Day02 {
         System.out.println(a4);
         char ch1 = '$';
         System.out.println((int)ch1); // Explicit typecasting
+        System.out.println(ch1+0); // Smart way
+        char ch2 = 'a';
+        System.out.println(ch2+0);
+
+        // 13th - Int se char me
+        System.out.println(" ");
+        int x1 = 780000000;
+        int x2 = 78;
+        char ch3 = (char) x1; // 780000000 % 65536 -> 41728 -> likely ?
+        char ch4 = (char) x2; // Implicit typecasting not allowed
+        System.out.println(ch3);
+        System.out.println(ch4);
     }
 }
