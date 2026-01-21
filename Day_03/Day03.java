@@ -99,18 +99,10 @@ public class Day03 {
         System.out.println(" ");
         System.out.print("Enter your integer: ");
         int x8 = sc.nextInt();
-        if (x8>0){
-            if (x8<69){
-                System.out.println("True");
-            }else {
-                System.out.println("False");
-            }
+        if(Math.abs(x8)<69){
+            System.out.println("True");
         }else {
-            if (-x8<69){
-                System.out.println("True");
-            }else {
-                System.out.println("False");
-            }
+            System.out.println("False");
         }
     }
 }
