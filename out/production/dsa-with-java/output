@@ -1,14 +1,24 @@
 1st:
-Enter your number: 64
-Factors(bad code): 1 2 4 8 16 32 64
-
-Factors(good code): 1 64 2 32 4 16 8
+Enter number: 2345
+Total digits: 4
 
 2nd:
-2 4 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 42 44 46 48 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96 98 100
+Enter number: 6789
+Total sum: 30
 
 3rd:
-1 2 3 4 5 6 7 8 9 10
+Enter number: 9876
+Reverse number: 6789
 
 4rth:
-1 2 3 4 5 6 7 8 9 10
+Enter number: 4567
+Sum: 12221
+
+5th:
+Enter (+)ve number: 9
+Factorial: 362880
+
+6th:
+Enter a: 3
+Enter b: 5
+Answer: 243

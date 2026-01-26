@@ -1,0 +1,29 @@
+1st:
+Enter rows: 2
+Enter columns: 3
+* * *
+* * *
+
+2nd:
+Enter n: 4
+* * * *
+* * * *
+* * * *
+* * * *
+
+3rd:
+Enter n: 5
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+
+4rth:
+Enter n: 6
+A B C D E F
+A B C D E F
+A B C D E F
+A B C D E F
+A B C D E F
+A B C D E F
