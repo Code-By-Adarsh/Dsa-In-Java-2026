@@ -1,29 +1,106 @@
 1st:
-Enter rows: 2
+Enter rows: 5
 Enter columns: 3
-* * *
-* * *
+* * *  
+* * *  
+* * *  
+* * *  
+* * *  
 
 2nd:
-Enter n: 4
-* * * *
-* * * *
-* * * *
-* * * *
+Enter n(2): 4
+* * * *  
+* * * *  
+* * * *  
+* * * *  
 
 3rd:
-Enter n: 5
-1 2 3 4 5
-1 2 3 4 5
-1 2 3 4 5
-1 2 3 4 5
-1 2 3 4 5
+Enter n(3): 4
+1 2 3 4  
+1 2 3 4  
+1 2 3 4  
+1 2 3 4  
 
 4rth:
-Enter n: 6
-A B C D E F
-A B C D E F
-A B C D E F
-A B C D E F
-A B C D E F
-A B C D E F
+Enter n(4): 4
+A B C D  
+A B C D  
+A B C D  
+A B C D  
+
+5th:
+Enter n(5): 4
+a b c d  
+a b c d  
+a b c d  
+a b c d  
+
+6th:
+Enter n(6): 4
+1 1 1 1  
+2 2 2 2  
+3 3 3 3  
+4 4 4 4  
+
+7th:
+Enter n(7): 4
+A A A A  
+B B B B  
+C C C C  
+D D D D  
+
+8th:
+Enter n(8): 4
+a a a a  
+B B B B  
+c c c c  
+D D D D  
+
+9th:
+Enter n(9): 4
+*  
+* *  
+* * *  
+* * * *  
+
+10th:
+Enter n(10): 4
+1  
+1 2  
+1 2 3  
+1 2 3 4  
+
+11th:
+Enter n(11): 4
+A  
+B B  
+C C C  
+D D D D  
+
+12th:
+Enter n(12): 4
+1  
+A B  
+1 2 3  
+A B C D  
+
+13th:
+Enter n(13): 4
+* * * *  
+* * *  
+* *  
+*  
+
+14th:
+Enter n(14): 4
+a b c d  
+a b c  
+a b  
+a  
+
+15th:
+Enter n(15): 4
+A A A A  
+B B B  
+C C  
+D 

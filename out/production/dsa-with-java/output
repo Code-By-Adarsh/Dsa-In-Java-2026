@@ -1,24 +1,29 @@
 1st:
-Enter number: 2345
-Total digits: 4
+Enter rows: 2
+Enter columns: 3
+* * *
+* * *
 
 2nd:
-Enter number: 6789
-Total sum: 30
+Enter n: 4
+* * * *
+* * * *
+* * * *
+* * * *
 
 3rd:
-Enter number: 9876
-Reverse number: 6789
+Enter n: 5
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
 
 4rth:
-Enter number: 4567
-Sum: 12221
-
-5th:
-Enter (+)ve number: 9
-Factorial: 362880
-
-6th:
-Enter a: 3
-Enter b: 5
-Answer: 243
+Enter n: 6
+A B C D E F
+A B C D E F
+A B C D E F
+A B C D E F
+A B C D E F
+A B C D E F
