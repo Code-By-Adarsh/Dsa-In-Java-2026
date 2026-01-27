@@ -21,6 +21,22 @@ This repository is my **2026 consistency challenge** to master:
 
 ---
 
+## 🚀 Day-wise Topic:
+### 📅 Day 10 — Pattern Problems (Java)
+
+| No. | Pattern Name | Core Logic / Condition |
+|----:|--------------|------------------------|
+| 1 | Hollow Rectangle | i==1 || i==r || j==1 || j==c |
+| 2 | Star Plus | i==n/2+1 || j==n/2+1 |
+| 3 | Centered Triangle | `j>=c-(i-1) && j<=c+(i-1)` |
+| 4 | Star Cross (X) | i==j || i+j==n+1 |
+| 5 | Floyd’s Triangle | Continuous number increment |
+| 6 | Binary Triangle | `(i+j)%2` |
+| 7 | Odd Number Triangle | Odd AP (`+2` increment) |
+| 8 | Vertically Flipped Triangle | `i+j>n` |
+
+---
+
 ## 🧠 Rules I Follow (Discipline Mode)
 - ✅ Practice daily (no zero day)
 - ✅ Upload code in day-wise folders only
