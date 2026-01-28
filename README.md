@@ -22,7 +22,7 @@ This repository is my **2026 consistency challenge** to master:
 ---
 
 ## 🚀 Day-wise Topic:
-### 📅 Day 10 — Pattern Problems (Java)
+### 📅 Day 10 — Pattern Problems
 
 | No. | Pattern Name | Core Logic / Condition |
 |----:|--------------|------------------------|
@@ -35,7 +35,7 @@ This repository is my **2026 consistency challenge** to master:
 | 7 | Odd Number Triangle | Odd AP (`+2` increment) |
 | 8 | Vertically Flipped Triangle | `i+j>n` |
 
-## 📅 Day 11 — Pattern Problems (Java)
+### 📅 Day 11 — Pattern Problems
 
 | No. | Pattern Name | Core Logic / Condition |
 |----:|--------------|------------------------|
