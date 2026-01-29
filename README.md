@@ -49,6 +49,19 @@ This repository is my **2026 consistency challenge** to master:
 | 8 | Pyramid (Formula Based) | stars = `(2 * i) - 1` |
 | 9 | Pyramid (Variable Based) | `nsp--`, `nst += 2` |
 
+### 📅 Day 12 — Pattern Problems
+
+| No. | Pattern Name | Core Logic / Condition |
+|----:|--------------|------------------------|
+| 1 | Diamond Pattern (Method 1) | `nsp-- , nst += 2` (upper) → `nsp++ , nst -= 2` (lower) |
+| 2 | Diamond Pattern (Method 2) | spaces = `n - i`, stars = `(2 * i) - 1` |
+| 3 | Inverted Diamond (Lower Half) | stars = `(2 * n - 1) - 2 * i` |
+| 4 | Bridge Pattern (Top Line) | stars = `2 * n - 1` |
+| 5 | Bridge Pattern (Body) | left/right stars = `n - i`, mid spaces = `(2 * i) - 1` |
+| 6 | Number Spiral Pattern | `Math.min(a, b)` |
+| 7 | Row Reflection | `if (i > n) i = 2 * n - i` |
+| 8 | Column Reflection | `if (j > n) j = 2 * n - j` |
+
 ---
 
 ## 🧠 Rules I Follow (Discipline Mode)
