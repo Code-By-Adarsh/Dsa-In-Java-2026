@@ -81,5 +81,23 @@ public class Day12 {
             }
             System.out.println(" ");
         }
+
+        // 4rth - Number spiral
+        System.out.println(" ");
+        System.out.print("Enter n(4): ");
+        int x4 = sc.nextInt();
+        for (int i=1; i<=x4*2-1; i++){
+            for (int j=1; j<=x4*2-1; j++){
+                int a = i, b = j;
+                if (a>x4){
+                    a = 2*x4 - a;
+                }
+                if (b>x4){
+                    b = 2*x4 - b;
+                }
+                System.out.print(Math.min(a,b)+" ");
+            }
+            System.out.println(" ");
+        }
     }
 }
