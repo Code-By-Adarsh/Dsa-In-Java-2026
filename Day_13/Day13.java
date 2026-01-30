@@ -91,7 +91,7 @@ public class Day13 {
             for (int j=1; j<=x7-i; j++){
                 System.out.print("  ");
             }
-            int y7 = i;
+            int y7 = i; // helping variable
             for (int j=1; j<=i*2-1; j++){
                 if (j<i){
                     System.out.print(y7+" ");
@@ -103,6 +103,79 @@ public class Day13 {
                     System.out.print(y7+" ");
                     y7++;
                 }
+            }
+            System.out.println(" ");
+        }
+
+        // 8th - Rhombus Pattern
+        System.out.println(" ");
+        System.out.print("Enter n(8): ");
+        int x8 = sc.nextInt();
+        for (int i=1; i<=x8; i++){
+            for (int j=1; j<=i-1; j++){
+                System.out.print("  ");
+            }
+            for (int j=1; j<=x8-1; j++){
+                System.out.print("* ");
+            }
+            System.out.println(" ");
+        }
+
+        // 9th - Diamond Pattern
+        System.out.println(" ");
+        System.out.print("Enter n(9): ");
+        int x9 = sc.nextInt();
+        for (int i=1; i<=x9; i++){
+            for (int j=1; j<=x9+1-i; j++){
+                System.out.print(" ");
+            }
+            for (int j=1; j<=i; j++){
+                System.out.print("* ");
+            }
+            System.out.println(" ");
+        }
+        for (int i=1; i<=x9-1; i++){
+            for (int j=1; j<=i+1; j++){
+                System.out.print(" ");
+            }
+            for (int j=1; j<=x9-i; j++){
+                System.out.print("* ");
+            }
+            System.out.println(" ");
+        }
+
+        // 10th - Butterfly Star Pattern
+        System.out.println(" ");
+        System.out.print("Enter n(10): ");
+        int x10 = sc.nextInt();
+        for(int i=1; i<=x10; i++){
+            for (int j=1; j<=i; j++){
+                System.out.print("* ");
+            }
+            for (int j=1; j<=x10*2-1-2*i; j++){
+                System.out.print("  ");
+            }
+            int y10 = i;
+            if (y10 == x10){
+                y10 = y10 - 1;
+            }
+            for (int j=1; j<=y10; j++){
+                System.out.print("* ");
+            }
+            System.out.println(" ");
+        }
+
+        int z10 = 1; // helping variable
+        for (int i=1; i<=x10-1; i++){
+            for (int j=1; j<=x10-i; j++){
+                System.out.print("* ");
+            }
+            for (int j=1; j<=z10; j++){
+                System.out.print("  ");
+            }
+            z10+=2;
+            for (int j=1; j<=x10-i; j++){
+                System.out.print("* ");
             }
             System.out.println(" ");
         }
