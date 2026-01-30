@@ -62,6 +62,21 @@ This repository is my **2026 consistency challenge** to master:
 | 7 | Row Reflection | `if (i > n) i = 2 * n - i` |
 | 8 | Column Reflection | `if (j > n) j = 2 * n - j` |
 
+### 📅 Day 13 — Pattern Problems (Java)
+
+| No. | Pattern Name | Core Logic / Condition |
+|----:|--------------|------------------------|
+| 1 | Square Hollow Pattern | `i==1 || i==n || j==1 || j==n` |
+| 2 | Number Triangle (Right Aligned) | Spaces: `j<=n-i`, print `i` |
+| 3 | Number Increasing Pyramid | Inner loop prints `1` to `j` |
+| 4 | Number Increasing Reverse Pyramid | Loop till `n+1-i` |
+| 5 | Number Changing Pyramid | Helper variable increment (`num++`) |
+| 6 | Zero-One Triangle | `(i + j) % 2` |
+| 7 | Palindromic Number Triangle | Decrease till mid, then increase |
+| 8 | Rhombus Pattern | Leading spaces `j<=i-1`, fixed stars |
+| 9 | Diamond Pattern | Upper + lower half separation |
+|10 | Butterfly Star Pattern | `stars + spaces + stars` symmetry |
+
 ---
 
 ## 🧠 Rules I Follow (Discipline Mode)
