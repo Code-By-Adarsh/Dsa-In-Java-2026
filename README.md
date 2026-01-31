@@ -77,6 +77,21 @@ This repository is my **2026 consistency challenge** to master:
 | 9 | Diamond Pattern | Upper + lower half separation |
 |10 | Butterfly Star Pattern | `stars + spaces + stars` symmetry |
 
+### 📅 Day 14 — Pattern Problems (Java)
+
+| No. | Pattern Name | Core Logic / Condition |
+|----:|--------------|------------------------|
+| 1 | Square Filled Pattern | Print `*` for all rows and columns |
+| 2 | Right Half Star Pyramid | Inner loop: `j <= i` |
+| 3 | Reverse Right Half Pyramid | Inner loop: `j <= n + 1 - i` |
+| 4 | Left Half Pyramid | Spaces: `j <= n - i`, then stars |
+| 5 | Reverse Left Half Pyramid | Spaces: `j <= i - 1`, stars till `n + 1 - i` |
+| 6 | K Star Pattern | Top: `n + 1 - i`, Bottom: `i + 1` |
+| 7 | Triangle Star Pattern | Leading spaces + `* ` till `i` |
+| 8 | Reverse Number Triangle | Helper variable starts from `i` |
+| 9 | Mirror Image Number Triangle | Upper + lower numeric mirror |
+|10 | Hollow Triangle Pattern | `j==1 || j==i || i==n` |
+
 ---
 
 ## 🧠 Rules I Follow (Discipline Mode)
