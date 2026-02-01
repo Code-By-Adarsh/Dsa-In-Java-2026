@@ -92,6 +92,16 @@ This repository is my **2026 consistency challenge** to master:
 | 9 | Mirror Image Number Triangle | Upper + lower numeric mirror |
 |10 | Hollow Triangle Pattern | `j==1 || j==i || i==n` |
 
+### 📅 Day 15 — Pattern Problems (Java)
+
+| No. | Pattern Name | Core Logic / Condition |
+|----:|--------------|------------------------|
+| 1 | Hollow Reverse Triangle | `i==1 || j==1 || j==n+1-i` |
+| 2 | Hollow Diamond Pyramid | Upper: `j==1 || j==i` , Lower: `j==1 || j==n-i` |
+| 3 | Hollow Hourglass Pattern | Top: `i==1 || j==1 || j==n+1-i` , Bottom: `j==1 || j==i+1 || i==n-1` |
+| 4 | Pascal’s Triangle (Basic) | `j==1 || j==i` → `1`, else `i-1` |
+| 5 | Right Pascal’s Triangle | Stars increase till `i`, then decrease |
+
 ---
 
 ## 🧠 Rules I Follow (Discipline Mode)
