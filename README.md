@@ -102,6 +102,21 @@ This repository is my **2026 consistency challenge** to master:
 | 4 | Pascal’s Triangle (Basic) | `j==1 || j==i` → `1`, else `i-1` |
 | 5 | Right Pascal’s Triangle | Stars increase till `i`, then decrease |
 
+### 📅 Day 16 — Java Methods & Functions
+
+| No. | Topic / Program | Core Concept / Logic |
+|----:|-----------------|----------------------|
+| 1 | Method Calling Flow | One method calling another → execution follows call stack order |
+| 2 | Void Methods | No return value, only execution (`adarsh()`, `aman()`, `virat()`) |
+| 3 | Parameters vs Arguments | Parameters = placeholders, Arguments = actual values passed |
+| 4 | Built-in Math Methods | `Math.max()`, `Math.sqrt()`, `Math.pow()`, `Math.abs()` |
+| 5 | Method Overloading | Same method name, different parameter list (`max(a,b)` & `max(a,b,c)`) |
+| 6 | Return Type Methods | Value returned using `return` statement (`pritam()`, `partner()`) |
+| 7 | Factorial Function | Loop-based multiplication from `n` to `1` |
+| 8 | nCr Calculation | `n! / (r! * (n-r)!)` using factorial method |
+| 9 | Pass by Value | Changes inside method do **not** affect original variable |
+|10 | Swap Logic | Swap inside method fails due to pass-by-value |
+
 ---
 
 ## 🧠 Rules I Follow (Discipline Mode)
