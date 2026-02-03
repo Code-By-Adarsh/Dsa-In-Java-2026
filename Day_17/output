@@ -1,0 +1,35 @@
+69
+18
+
+Using For Loop:
+Array x: 6 19 7 18 171 5
+
+Using For Each Loop:
+Array x: 6 19 7 18 171 5
+
+0 0 0 0 0 0
+
+Enter 1 number: 7
+Enter 2 number: 5
+Enter 3 number: 4
+Enter 4 number: 7
+Enter 5 number: 89
+
+Your array is: 7 5 4 7 89
+
+Enter array length: 5
+Enter 1 number: -9
+Enter 2 number: -6
+Enter 3 number: 5
+Enter 4 number: 4
+Enter 5 number: 7
+
+Your negative number in array is: -9 -6
+
+Enter 1 number: 8
+Enter 2 number: 9
+Enter 3 number: 2
+Enter 4 number: 3
+Enter 5 number: 0
+
+Your sum of array is: 22
