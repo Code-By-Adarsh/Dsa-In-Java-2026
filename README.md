@@ -117,6 +117,20 @@ This repository is my **2026 consistency challenge** to master:
 | 9 | Pass by Value | Changes inside method do **not** affect original variable |
 |10 | Swap Logic | Swap inside method fails due to pass-by-value |
 
+### 📅 Day 17 — Arrays Basics
+| No. | Topic / Program                    | Core Concept / Logic                            |
+| --: | ---------------------------------- | ----------------------------------------------- |
+|   1 | Array Initialization (Literal)     | `int[] x = {6,19,7,69,171,5};`                  |
+|   2 | Array Indexing                     | Access elements using `x[index]`                |
+|   3 | Updating Array Element             | Arrays are mutable → `x[index] = newValue`      |
+|   4 | Array Initialization (new keyword) | `int[] x = new int[size];`                      |
+|   5 | Traversal using For Loop           | Index-based loop → `i < x.length`               |
+|   6 | Traversal using For-Each Loop      | Value-based traversal → `for (int i : x)`       |
+|   7 | Default Values in Array            | New int array → all elements initialized to `0` |
+|   8 | User Input in Array                | Loop + `Scanner.nextInt()`                      |
+|   9 | Printing Negative Elements         | Condition check → `if (i < 0)`                  |
+|  10 | Sum of Array Elements              | Accumulator logic → `sum += i`                  |
+
 ---
 
 ## 🧠 Rules I Follow (Discipline Mode)
