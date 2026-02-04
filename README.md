@@ -131,6 +131,18 @@ This repository is my **2026 consistency challenge** to master:
 |   9 | Printing Negative Elements         | Condition check → `if (i < 0)`                  |
 |  10 | Sum of Array Elements              | Accumulator logic → `sum += i`                  |
 
+### 📅 Day 18 — Array Min & Max Problems
+| No. | Topic / Program           | Core Concept / Logic                            |
+| --: | ------------------------- | ----------------------------------------------- |
+|   1 | Print Array Elements      | Traverse array using `for` loop                 |
+|   2 | Maximum Element in Array  | Compare with reference → `max = arr[0]`         |
+|   3 | Max Logic Update          | Condition → `if (max <= arr[i])`                |
+|   4 | Minimum Element in Array  | Compare with reference → `min = arr[0]`         |
+|   5 | Min Logic Update          | Condition → `if (min >= arr[i])`                |
+|   6 | Handling Negative Numbers | Comparison works for negative & zero values     |
+|   7 | Single-Pass Traversal     | Loop from index `1` to `arr.length - 1`         |
+|   8 | Problem Solving (GFG)     | Applied logic on real interview-style questions |
+
 ---
 
 ## 🧠 Rules I Follow (Discipline Mode)
