@@ -1,67 +1,35 @@
-4.898979485566356
-4.0
-Pi: 3.141592653589793
-95
-6.0
--8.0
-10.0
-5
-9
-16.0
--64008.10274192608
-NaN
-1.0
+69
+18
 
-1st:
-Enter n(1): 5
-Enter n(1 1): 6
-Enter n(1 2): 9
-9
+Using For Loop:
+Array x: 6 19 7 18 171 5
 
-2nd:
-Verma
-Kohli
-Kohli
-Mishra
-Patel
-Verma
-Kohli
+Using For Each Loop:
+Array x: 6 19 7 18 171 5
 
-The sum is: 11
+0 0 0 0 0 0
 
-3rd:
-The maximum number is: 89
-NaN
+Enter 1 number: 7
+Enter 2 number: 5
+Enter 3 number: 4
+Enter 4 number: 7
+Enter 5 number: 89
 
-4rth:
-Friend
-5
-Friend
-10
-Friend
+Your array is: 7 5 4 7 89
 
-5th:
-CSK RCB
+Enter array length: 5
+Enter 1 number: -9
+Enter 2 number: -6
+Enter 3 number: 5
+Enter 4 number: 4
+Enter 5 number: 7
 
-6th:
-0
-10
+Your negative number in array is: -9 -6
 
-7th:
-Enter n: 6
-Enter r: 7
-0
+Enter 1 number: 8
+Enter 2 number: 9
+Enter 3 number: 2
+Enter 4 number: 3
+Enter 5 number: 0
 
-8th:
-5
-5
-
-9th:
-a: 5
-b: 3
-
-10th:
-Enter a: 6
-Enter b: 7
-Before swap: a-> 6 b-> 7
-After swap: a-> 7 b-> 6
+Your sum of array is: 22
