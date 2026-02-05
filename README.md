@@ -143,6 +143,25 @@ This repository is my **2026 consistency challenge** to master:
 |   7 | Single-Pass Traversal     | Loop from index `1` to `arr.length - 1`         |
 |   8 | Problem Solving (GFG)     | Applied logic on real interview-style questions |
 
+### 📅 Day 19 — Advanced Array Concepts (Java)
+| No. | Topic / Program               | Core Concept / Logic                           |
+| --: | ----------------------------- | ---------------------------------------------- |
+|   1 | Default Values (char array)   | Default → `'\0'` (prints as blank / ASCII `0`) |
+|   2 | Default Values (double array) | Default → `0.0`                                |
+|   3 | Default Values (String array) | Default → `null`                               |
+|   4 | Pass by Reference (Array)     | Changes inside method affect original array    |
+|   5 | Method Modifying Array        | Direct index update → `arr[index] = value`     |
+|   6 | Shallow Copy                  | Same reference → `int[] y = x`                 |
+|   7 | Shallow Copy Effect           | Change in copy reflects in original array      |
+|   8 | Deep Copy                     | New array created → `Arrays.copyOf()`          |
+|   9 | Deep Copy Safety              | Changes do not affect original array           |
+|  10 | Sorting Array (Ascending)     | Built-in sort → `Arrays.sort(arr)`             |
+|  11 | Print Utility Method          | Reusable method for array traversal            |
+|  12 | Index-Based Manipulation (HW) | Even index → `+10`, Odd index → `*2`           |
+|  13 | Linear Search (HW)            | Traverse + compare each element                |
+|  14 | Search Flag Logic             | Boolean flag to track element presence         |
+|  15 | User Input in Search          | `Scanner.nextInt()` for dynamic search value   |
+
 ---
 
 ## 🧠 Rules I Follow (Discipline Mode)
