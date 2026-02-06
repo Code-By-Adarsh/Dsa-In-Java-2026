@@ -1,7 +1,28 @@
 1st:
-Your array is: 9 -7 -3 0 100 169 18 45
-Maximum number in array is: 169
+0
+
+0.0 0.0 0.0 0.0 0.0
+null null null null null
 
 2nd:
-Your array is: 9 -7 -3 0 100 169 18 45
-Minimum number in array is: -7
+9
+10
+
+3rd:
+10
+100
+
+4rth:
+10
+10
+
+5th:
+5 7 2 1 -6 7
+-6 1 2 5 7 7
+
+6th:
+20 40 40 80 60
+
+7th:
+Enter element: 5
+Ha bhai hai. 5

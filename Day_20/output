@@ -1,0 +1,22 @@
+1st:
+Array: 3 5 2 5 4 7 6 4 56 45 35
+Enter target: 2
+Target mil gya bhai at index: 2
+
+2nd:
+Array: 1 5 8 -3
+-1
+
+3rd:
+Array: 4 6 3 54 76 89 65 89 45 9 87 45
+87
+
+4rth:
+Array: 5 6 7 4 3 0 9 5 6 7 1 2 6
+5 6 7 4 3 0 9 5 6 7 1 2 6
+
+5th:
+Before Reverse:
+Array: 6 5 4 7 9
+After Reverse:
+Array: 9 7 4 5 6
