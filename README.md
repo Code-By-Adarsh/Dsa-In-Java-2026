@@ -162,6 +162,22 @@ This repository is my **2026 consistency challenge** to master:
 |  14 | Search Flag Logic             | Boolean flag to track element presence         |
 |  15 | User Input in Search          | `Scanner.nextInt()` for dynamic search value   |
 
+### 📅 Day 20 — Array Problem Solving (Java)
+| No. | Topic / Program                  | Core Concept / Logic                              |
+| --: | -------------------------------- | ------------------------------------------------- |
+|   1 | Linear Search (Index Return)     | Single variable used as flag → `found = -1`       |
+|   2 | Target Search Output             | Found → index, Not found → `-1`                   |
+|   3 | Two Sum (Brute Force)            | Nested loops → check `arr[i] + arr[j] == target`  |
+|   4 | Early Loop Break                 | Use flag + `break` to stop unnecessary iterations |
+|   5 | Second Largest Element (2 Loops) | First loop → max, Second loop → next max          |
+|   6 | Ignore Duplicate Max             | Condition → `arr[i] != max`                       |
+|   7 | Alternative Approach (Commented) | Sorting + reverse traversal logic                 |
+|   8 | For-Each Loop                    | Value-based traversal → `for (int ele : arr)`     |
+|   9 | Reverse Array (New Copy)         | New array + reverse index mapping                 |
+|  10 | Reverse Index Formula            | `j = (length - 1) - i`                            |
+|  11 | Utility Print Method             | Reusable method for array output                  |
+|  12 | Interview-Oriented Problems      | Search, Two Sum, Second Largest, Reverse          |
+
 ---
 
 ## 🧠 Rules I Follow (Discipline Mode)
