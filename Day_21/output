@@ -1,0 +1,9 @@
+1st:
+Array: 3 19 56 9 83 18 24 85 14
+Reverse Array: 14 85 24 18 83 9 56 19 3
+
+2nd:
+Array: 3 19 56 9
+Rotated Array on d = 3: 9 3 19 56
+Array: 3 19 56 9
+Rotated Array on d = 10: 56 9 3 19
