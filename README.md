@@ -178,6 +178,16 @@ This repository is my **2026 consistency challenge** to master:
 |  11 | Utility Print Method             | Reusable method for array output                  |
 |  12 | Interview-Oriented Problems      | Search, Two Sum, Second Largest, Reverse          |
 
+### 📅 Day 21 — Array Reverse & Rotation
+| No. | Topic / Program         | Core Concept / Logic            |
+| --: | ----------------------- | ------------------------------- |
+|   1 | Reverse Array           | Two-pointer swap → `i++`, `j--` |
+|   2 | In-Place Operation      | No extra space (O(1))           |
+|   3 | Helper Reverse Method   | Reverse subarray using indices  |
+|   4 | Array Rotation (Left)   | Reversal algorithm approach     |
+|   5 | Modulo Optimization     | Handle large `d` → `d % n`      |
+|   6 | Time & Space Complexity | O(n) time, O(1) space           |
+
 ---
 
 ## 🧠 Rules I Follow (Discipline Mode)
