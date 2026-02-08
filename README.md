@@ -188,6 +188,17 @@ This repository is my **2026 consistency challenge** to master:
 |   5 | Modulo Optimization     | Handle large `d` → `d % n`      |
 |   6 | Time & Space Complexity | O(n) time, O(1) space           |
 
+### 📅 Day 22 — Weekly Revision (Arrays)
+| No. | Topic / Program        | Core Concept / Logic                 |
+| --: | ---------------------- | ------------------------------------ |
+|   1 | Reverse Array          | Two-pointer swap approach            |
+|   2 | Rotate Array           | Reversal algorithm + `d % n`         |
+|   3 | Linear Search          | One variable as index/flag           |
+|   4 | Two Sum (Brute Force)  | Nested loops + early break           |
+|   5 | Second Largest Element | Ignore max while comparing           |
+|   6 | For-Each Loop          | Value-based traversal                |
+|   7 | Reverse Copy of Array  | New array with reverse index mapping |
+
 ---
 
 ## 🧠 Rules I Follow (Discipline Mode)
