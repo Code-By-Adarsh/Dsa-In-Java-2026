@@ -1,0 +1,27 @@
+1st:
+Array: 6 8 1 2 4 9 0
+Reverse Array: 0 9 4 2 1 8 6
+
+2nd:
+Array: 6 8 1 2 4 9 0
+Rotated Array on d = 5: 9 0 6 8 1 2 4
+
+3rd:
+Array: 6 8 1 2 4 9 0
+Target found at index: 4
+
+4rth:
+Array: 6 8 1 2 4 9 0
+Target found.
+
+5th:
+Array: 6 8 1 2 4 9 0
+Second Largest Element: 8
+
+6th:
+Array: 6 8 1 2 4 9 0
+Array by for each loop: 6 8 1 2 4 9 0
+
+7th:
+Array: 6 8 1 2 4 9 0
+Reverse Array: 0 9 4 2 1 8 6
