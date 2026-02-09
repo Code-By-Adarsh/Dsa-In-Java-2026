@@ -199,6 +199,18 @@ This repository is my **2026 consistency challenge** to master:
 |   6 | For-Each Loop          | Value-based traversal                |
 |   7 | Reverse Copy of Array  | New array with reverse index mapping |
 
+### 📅 Day 23 — Array Math & Counting Problems
+
+| No. | Topic / Program          | Core Concept / Logic                 |
+| --: | ------------------------ | ------------------------------------ |
+|   1 | Missing Number in Array  | Sum formula → `n*(n+1)/2`             |
+|   2 | Array Sum Calculation    | Accumulator logic                    |
+|   3 | Difference Technique     | `totalSum - arraySum`                |
+|   4 | Count Zeros              | Frequency counting                   |
+|   5 | Segregate 0s and 1s      | Fill array using count               |
+|   6 | In-Place Update          | No extra array used                  |
+|   7 | Time Complexity          | O(n)                                 |
+
 ---
 
 ## 🧠 Rules I Follow (Discipline Mode)
