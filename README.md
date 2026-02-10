@@ -211,6 +211,18 @@ This repository is my **2026 consistency challenge** to master:
 |   6 | In-Place Update          | No extra array used                  |
 |   7 | Time Complexity          | O(n)                                 |
 
+### 📅 Day 24 — Two Pointer & Pattern Problems
+
+| No. | Topic / Program              | Core Concept / Logic              |
+| --: | ---------------------------- | --------------------------------- |
+|   1 | Segregate 0s & 1s (1-Pass)   | Two-pointer swap approach         |
+|   2 | In-Place Optimization        | No extra space used               |
+|   3 | Pointer Movement Control     | Conditional `i++` and `j--`       |
+|   4 | Wave Array                   | Swap adjacent elements            |
+|   5 | Step-wise Traversal          | Loop increment by `i += 2`        |
+|   6 | Time Complexity              | O(n)                              |
+|   7 | Space Complexity             | O(1)                              |
+
 ---
 
 ## 🧠 Rules I Follow (Discipline Mode)
