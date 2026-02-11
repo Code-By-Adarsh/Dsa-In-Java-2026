@@ -223,6 +223,16 @@ This repository is my **2026 consistency challenge** to master:
 |   6 | Time Complexity              | O(n)                              |
 |   7 | Space Complexity             | O(1)                              |
 
+### 📅 Day 25 — ArrayList & Carry Problem
+
+| No. | Topic / Program        | Core Concept / Logic          |
+| --: | ---------------------- | ----------------------------- |
+|   1 | ArrayList Basics       | Dynamic array operations      |
+|   2 | Add / Get / Set / Remove | Built-in methods usage      |
+|   3 | Reverse List           | Built-in & two-pointer method |
+|   4 | Add One Problem        | Carry propagation logic       |
+|   5 | Edge Case Handling     | Extra digit if carry remains  |
+
 ---
 
 ## 🧠 Rules I Follow (Discipline Mode)
