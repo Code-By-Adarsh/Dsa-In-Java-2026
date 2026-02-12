@@ -233,6 +233,16 @@ This repository is my **2026 consistency challenge** to master:
 |   4 | Add One Problem        | Carry propagation logic       |
 |   5 | Edge Case Handling     | Extra digit if carry remains  |
 
+### 📅 Day 26 — Merge Two Sorted Arrays
+
+| No. | Topic / Program            | Core Concept / Logic          |
+| --: | -------------------------- | ----------------------------- |
+|   1 | Merge Two Sorted Arrays    | Compare & insert in order     |
+|   2 | Three Pointer Technique    | `i`, `j`, `k` movement        |
+|   3 | Remaining Elements Handling| Copy leftover elements        |
+|   4 | Result Array Creation      | Size = n + m                  |
+|   5 | Merge Sort Foundation      | Core merging step             |
+
 ---
 
 ## 🧠 Rules I Follow (Discipline Mode)
