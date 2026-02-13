@@ -243,6 +243,16 @@ This repository is my **2026 consistency challenge** to master:
 |   4 | Result Array Creation      | Size = n + m                  |
 |   5 | Merge Sort Foundation      | Core merging step             |
 
+### 📅 Day 27 — Array Revision & Carry Problems
+
+| No. | Topic / Program        | Core Concept / Logic        |
+| --: | ---------------------- | --------------------------- |
+|   1 | Add One Problem        | Carry propagation logic     |
+|   2 | Reverse Result         | `Collections.reverse()`     |
+|   3 | Add Two Arrays         | Digit-wise addition         |
+|   4 | Unequal Length Handling| Process remaining elements  |
+|   5 | Final Carry Check      | Insert extra digit if needed|
+
 ---
 
 ## 🧠 Rules I Follow (Discipline Mode)
