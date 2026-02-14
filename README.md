@@ -253,6 +253,16 @@ This repository is my **2026 consistency challenge** to master:
 |   4 | Unequal Length Handling| Process remaining elements  |
 |   5 | Final Carry Check      | Insert extra digit if needed|
 
+### 📅 Day 28 — Merge & Duplicate Detection
+
+| No. | Topic / Program              | Core Concept / Logic          |
+| --: | ---------------------------- | ----------------------------- |
+|   1 | Reverse Merge of Arrays      | Backward 3-pointer approach   |
+|   2 | Time Complexity Analysis     | O(n + m)                      |
+|   3 | Duplicate (Brute Force)      | Nested loops O(n²)            |
+|   4 | Duplicate (Marking Array)    | Boolean tracking O(n)         |
+|   5 | Duplicate (Sum Formula)      | Mathematical difference       |
+
 ---
 
 ## 🧠 Rules I Follow (Discipline Mode)
