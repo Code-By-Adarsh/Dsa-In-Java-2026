@@ -263,6 +263,16 @@ This repository is my **2026 consistency challenge** to master:
 |   4 | Duplicate (Marking Array)    | Boolean tracking O(n)         |
 |   5 | Duplicate (Sum Formula)      | Mathematical difference       |
 
+### 📅 Day 29 — Weekly Revision (9 Feb – 14 Feb)
+
+| No. | Topic / Program              | Core Concept / Logic          |
+| --: | ---------------------------- | ----------------------------- |
+|   1 | Missing Number               | Sum formula method            |
+|   2 | Segregate 0s & 1s            | Two-pointer swapping          |
+|   3 | Wave Array                   | Adjacent element swapping     |
+|   4 | Add One to Array             | Carry handling logic          |
+|   5 | Merge Sorted Arrays          | Backward 3-pointer approach   |
+
 ---
 
 ## 🧠 Rules I Follow (Discipline Mode)
