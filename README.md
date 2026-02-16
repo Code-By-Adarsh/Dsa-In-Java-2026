@@ -273,6 +273,18 @@ This repository is my **2026 consistency challenge** to master:
 |   4 | Add One to Array             | Carry handling logic          |
 |   5 | Merge Sorted Arrays          | Backward 3-pointer approach   |
 
+### 📅 Day 30 — Time & Space Complexity (Theory)
+
+| No. | Topic                          | Core Concept / Logic            |
+| --: | ------------------------------ | --------------------------------|
+|   1 | Big-O Notation                 | Growth rate analysis            |
+|   2 | Best / Average / Worst Case    | Performance scenarios           |
+|   3 | Loop Time Complexity           | O(1), O(n), O(n²) patterns      |
+|   4 | Nested Loop Analysis           | Multiplicative growth           |
+|   5 | Space Complexity               | Memory usage analysis           |
+|   6 | Auxiliary Space                | Extra memory used by algorithm  |
+|   7 | Manual Dry Run Practice        | Pen & paper calculations        |
+
 ---
 
 ## 🧠 Rules I Follow (Discipline Mode)
