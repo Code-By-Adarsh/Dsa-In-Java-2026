@@ -285,6 +285,18 @@ This repository is my **2026 consistency challenge** to master:
 |   6 | Auxiliary Space                | Extra memory used by algorithm  |
 |   7 | Manual Dry Run Practice        | Pen & paper calculations        |
 
+### 📅 Day 31 — Time & Space Complexity (Advanced Theory)
+
+| No. | Topic                          | Core Concept / Logic              |
+| --: | ------------------------------ | ----------------------------------|
+|   1 | Big-O Notation                 | Asymptotic growth analysis        |
+|   2 | Logarithmic Complexity         | O(log n) — dividing input         |
+|   3 | Exponential Complexity         | O(2^n) growth pattern             |
+|   4 | Loop Pattern Analysis          | Identify iteration behavior       |
+|   5 | Geometric Progression          | 1 + 2 + 4 + ... pattern           |
+|   6 | Time vs Space Tradeoff         | Memory vs speed understanding     |
+|   7 | Pen & Paper Calculations       | Manual complexity evaluation      |
+
 ---
 
 ## 🧠 Rules I Follow (Discipline Mode)
