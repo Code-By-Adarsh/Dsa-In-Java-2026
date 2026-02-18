@@ -297,6 +297,16 @@ This repository is my **2026 consistency challenge** to master:
 |   6 | Time vs Space Tradeoff         | Memory vs speed understanding     |
 |   7 | Pen & Paper Calculations       | Manual complexity evaluation      |
 
+### 📅 Day 32 — Sliding Window & Union of Arrays
+
+| No. | Topic / Problem                 | Core Concept / Logic            |
+| --: | ------------------------------- | --------------------------------|
+|   1 | Subarray with Given Sum         | Sliding Window (O(n))           |
+|   2 | Two-Pointer Window Adjustment   | Expand & shrink window          |
+|   3 | Union of Two Sorted Arrays      | Merge-style traversal           |
+|   4 | Duplicate Handling              | Check last inserted element     |
+|   5 | Optimized Approach              | Avoid brute-force O(n²)         |
+
 ---
 
 ## 🧠 Rules I Follow (Discipline Mode)
