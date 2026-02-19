@@ -307,6 +307,16 @@ This repository is my **2026 consistency challenge** to master:
 |   4 | Duplicate Handling              | Check last inserted element     |
 |   5 | Optimized Approach              | Avoid brute-force O(n²)         |
 
+### 📅 Day 33 — Array Practice Problems
+
+| No. | Topic / Problem                     | Core Concept / Logic          |
+| --: | ----------------------------------- | ----------------------------- |
+|   1 | Rotate Array                        | Reversal algorithm            |
+|   2 | Remove Duplicates (Sorted Array)    | Check last inserted element   |
+|   3 | Value Equal to Index                | Index comparison (i + 1)      |
+|   4 | Intersection of Arrays              | HashSet for O(n) lookup       |
+|   5 | Time Complexity Focus               | O(n) optimized approaches     |
+
 ---
 
 ## 🧠 Rules I Follow (Discipline Mode)
