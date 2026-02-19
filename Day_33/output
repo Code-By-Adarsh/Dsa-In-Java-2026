@@ -1,0 +1,16 @@
+1st:
+Array: 1 2 3 4 5
+Rotated Array: 5 1 2 3 4
+
+2nd:
+Given Array: 1 2 2 3 4 5 5 6
+Answer Array: [1, 2, 3, 4, 5, 6]
+
+3rd:
+Given Array: 1 7 8 4 5
+Answer: [1, 4, 5]
+
+4rth:
+Array 1: 4 6 7 8 9
+Array 2: 1 2 4 6 7
+Answer: 3
