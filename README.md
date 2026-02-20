@@ -317,6 +317,16 @@ This repository is my **2026 consistency challenge** to master:
 |   4 | Intersection of Arrays              | HashSet for O(n) lookup       |
 |   5 | Time Complexity Focus               | O(n) optimized approaches     |
 
+### 📅 Day 34 — Array Manipulation & Search
+
+| No. | Topic / Problem               | Core Concept / Logic        |
+| --: | ----------------------------- | --------------------------- |
+|   1 | Move Zeros to End             | Two-pointer compaction      |
+|   2 | Count Frequency               | Linear traversal O(n)       |
+|   3 | First & Last Occurrence       | Two-pointer search          |
+|   4 | In-Place Update               | No extra array used         |
+|   5 | Time Complexity               | O(n) solutions              |
+
 ---
 
 ## 🧠 Rules I Follow (Discipline Mode)
