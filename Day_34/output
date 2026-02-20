@@ -1,0 +1,11 @@
+1st:
+Given Array: 1 2 0 4 0 0 5 0
+Answer: 1 2 4 5 0 0 0 0
+
+2nd:
+Given Array: 1 2 2 2 2 6
+Answer: 4
+
+3rd:
+Given Array: 1 3 5 5 5 5 6 7 125
+Answer: [2, 5]
