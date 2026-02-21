@@ -327,6 +327,13 @@ This repository is my **2026 consistency challenge** to master:
 |   4 | In-Place Update               | No extra array used         |
 |   5 | Time Complexity               | O(n) solutions              |
 
+### 📅 Day 35 — Alternate Elements (Light Day)
+
+| No. | Topic / Problem   | Core Concept / Logic     |
+| --: | ----------------- | ------------------------ |
+|   1 | Get Alternates    | Step-based loop (i += 2) |
+|   2 | Array Traversal   | Basic iteration pattern  |
+
 ---
 
 ## 🧠 Rules I Follow (Discipline Mode)
