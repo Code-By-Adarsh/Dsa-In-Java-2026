@@ -14,7 +14,7 @@ public class Day32 {
         int sum = 0;
         for(int right=0; right<arr.length; right++){
             sum += arr[right];
-            while(sum>target && left<=right){
+            while(sum>target && left<right){
                 sum -= arr[left];
                 left++;
             }
