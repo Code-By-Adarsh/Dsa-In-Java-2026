@@ -1,0 +1,41 @@
+1st:
+Given Array: 2 5 7 3 5 6 9 0 1
+Answer: [2, 7, 5, 9, 1]
+
+2nd:
+Given Array: 1 2 0 4 0 0 5
+Answer: 1 2 4 5 0 0 0
+
+3rd:
+Given Array: 1 0 0 0 5 0 7 0 9 0 2 3 5 6 0 0 7 0 9 0 6
+Answer: 10
+
+4rth:
+Given Array: 1 2 3 6 7 8 5 6 9 0 7 3 4 5
+Answer: [4, 10]
+
+5th:
+Given Array: 2 3 5 6 4 7 8 0
+Answer: 0 2 3 5 6 4 7 8
+
+6th:
+Given Array: 1 2 2 3 4 4 5 6 6 7
+Answer: [1, 2, 3, 4, 5, 6, 7]
+
+7th:
+Given Array: 1 5 4 6 3 5 6 7 8 2 3 4
+Answer: [6, 7, 8, 9]
+
+8th:
+Array 1: 1 4 3 6 5
+Array 2: 2 4 3 5 9
+Answer: 3
+
+9th:
+Given Array: 1 2 3 7 5
+Answer: [3, 3]
+
+10th:
+Array 1: 1 2 3 4 5 12 14 20
+Array 2: 11 13 14 16 20 70 90 100
+Answer: [1, 2, 3, 4, 5, 11, 12, 13, 14, 16, 20, 70, 90, 100]
