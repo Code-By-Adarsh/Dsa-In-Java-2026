@@ -334,6 +334,22 @@ This repository is my **2026 consistency challenge** to master:
 |   1 | Get Alternates    | Step-based loop (i += 2) |
 |   2 | Array Traversal   | Basic iteration pattern  |
 
+### 📅 Day 36 — Weekly Revision (Arrays + Complexity)
+
+| No. | Topic / Pattern                    | Core Concept / Logic            |
+| --: | ---------------------------------- | --------------------------------|
+|   1 | Alternate Elements                 | Step-based loop (i += 2)        |
+|   2 | Move Zeros to End                  | Two-pointer compaction          |
+|   3 | Frequency Count                    | Linear traversal O(n)           |
+|   4 | First & Last Occurrence            | Two-pointer scan                |
+|   5 | Array Rotation                     | Reversal technique              |
+|   6 | Remove Duplicates (Sorted)         | Check last inserted element     |
+|   7 | Value Equal to Index               | Index comparison pattern        |
+|   8 | Intersection of Arrays             | HashSet lookup O(n)             |
+|   9 | Subarray Sum                       | Sliding Window                  |
+|  10 | Union of Sorted Arrays             | Merge-style traversal           |
+|  11 | Complexity Revision                | Time & Space analysis           |
+
 ---
 
 ## 🧠 Rules I Follow (Discipline Mode)
