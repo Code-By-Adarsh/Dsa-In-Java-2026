@@ -350,6 +350,17 @@ This repository is my **2026 consistency challenge** to master:
 |  10 | Union of Sorted Arrays             | Merge-style traversal           |
 |  11 | Complexity Revision                | Time & Space analysis           |
 
+### 📅 Day 37 — Bubble Sort
+
+| No. | Topic / Concept                | Core Idea                         |
+| --: | ------------------------------ | --------------------------------- |
+|   1 | Check Array Sorted             | Adjacent comparison               |
+|   2 | Bubble Sort (Basic)            | Nested loops O(n²)                |
+|   3 | Optimized Bubble Sort          | Early break using flag            |
+|   4 | Reduced Iteration Range        | `n - 1 - i` optimization          |
+|   5 | Descending Order Sorting       | Reverse comparison logic          |
+|   6 | Time Complexity Analysis       | Worst O(n²), Best O(n)            |
+
 ---
 
 ## 🧠 Rules I Follow (Discipline Mode)
