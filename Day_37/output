@@ -1,0 +1,19 @@
+1st:
+Given Array: 1 1 2 3 4 4 5 6
+Array is sorted: True
+
+2nd:
+Given Array: 5 1 4 3 0 -1 1 2
+Sorted Array: -1 0 1 1 2 3 4 5
+
+3rd:
+Given Array: 5 1 4 3 0 -1 1 2
+Sorted Array: -1 0 1 1 2 3 4 5
+
+4rth:
+Given Array: 5 1 4 3 0 -1 1 2
+Sorted Array: -1 0 1 1 2 3 4 5
+
+5th:
+Given Array: 5 3 1 4 9 0 3 2 -1 7
+Sorted Array in desc order: 9 7 5 4 3 3 2 1 0 -1
