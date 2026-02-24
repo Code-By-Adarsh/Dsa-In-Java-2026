@@ -361,6 +361,16 @@ This repository is my **2026 consistency challenge** to master:
 |   5 | Descending Order Sorting       | Reverse comparison logic          |
 |   6 | Time Complexity Analysis       | Worst O(n²), Best O(n)            |
 
+### 📅 Day 38 — Optimization & Selection Sort
+
+| No. | Topic / Problem                | Core Concept / Logic          |
+| --: | ------------------------------ | ----------------------------- |
+|   1 | Move Zeros (O(n²))             | Bubble-style shifting         |
+|   2 | Move Zeros (O(n))              | Index compaction              |
+|   3 | Move Zeros (Sliding Window)    | Two-pointer swap              |
+|   4 | Selection Sort                 | Find minimum & swap           |
+|   5 | Time Complexity Analysis       | Always O(n²) comparisons      |
+
 ---
 
 ## 🧠 Rules I Follow (Discipline Mode)
