@@ -104,12 +104,12 @@ public class Day37 {
         int n5 = x5.length;
         for (int i=0; i<n5-1; i++){
             int swap = 0;
-            for (int j = n5-1; j>i; j--){
-                if (x5[j]>x5[j-1]){
+            for (int j=0; j<n5-1-i; j++) {
+                if (x5[j] < x5[j + 1]) {
                     int temp = x5[j];
-                    x5[j] = x5[j-1];
-                    x5[j-1] = temp;
-                    swap++;
+                    x5[j] = x5[j + 1];
+                    x5[j + 1] = temp;
+                    swap = 1;
                 }
             }
             if (swap == 0){
