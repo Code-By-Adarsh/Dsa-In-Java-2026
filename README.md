@@ -371,6 +371,15 @@ This repository is my **2026 consistency challenge** to master:
 |   4 | Selection Sort                 | Find minimum & swap           |
 |   5 | Time Complexity Analysis       | Always O(n²) comparisons      |
 
+### 📅 Day 39 — Selection Sort (Descending) Revision
+
+| No. | Topic / Problem                  | Core Concept / Logic      |
+| --: | -------------------------------- | ------------------------- |
+|   1 | Selection Sort Revision         | Min/Max selection logic   |
+|   2 | Descending Order Sorting        | Select max each pass      |
+|   3 | Nested Loop Analysis            | O(n²) time complexity     |
+|   4 | Consistency Practice            | Revision over new topic   |
+
 ---
 
 ## 🧠 Rules I Follow (Discipline Mode)
