@@ -73,11 +73,9 @@ public class Day38 {
         System.out.print("Given Array: ");
         print(x4);
         for (int i=0; i<x4.length-1; i++){
-            int min = x4[i];
             int mindex = i;
-            for(int j=i; j<x4.length; j++){
-                if (min > x4[j]){
-                    min = x4[j];
+            for(int j=i+1; j<x4.length; j++){
+                if (x4[mindex] > x4[j]){
                     mindex = j;
                 }
             }
