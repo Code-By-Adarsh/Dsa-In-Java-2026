@@ -1,0 +1,12 @@
+1st:
+Given Array: 3 7 1 0 9
+Answer: 0 1 3 7 9
+
+2nd:
+Given Array: 2 7 11 15
+Answer: [1, 2]
+
+3rd:
+Array 1: 3 4 2 2 4
+Array 2: 3 2 2 7
+Answer: [2, 2, 3]
