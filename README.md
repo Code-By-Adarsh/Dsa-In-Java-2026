@@ -380,6 +380,15 @@ This repository is my **2026 consistency challenge** to master:
 |   3 | Nested Loop Analysis            | O(n²) time complexity     |
 |   4 | Consistency Practice            | Revision over new topic   |
 
+### 📅 Day 40 — Sorting & Two Pointer Techniques
+
+| No. | Topic / Problem                | Core Concept / Logic          |
+| --: | ------------------------------ | ----------------------------- |
+|   1 | Selection Sort (Max Placement) | Place largest at end         |
+|   2 | Two Sum (Sorted Array)         | Two-pointer approach O(n)    |
+|   3 | Common Elements of Arrays      | Sort + merge-style traversal |
+|   4 | Time Complexity Focus          | O(n), O(n log n) analysis    |
+
 ---
 
 ## 🧠 Rules I Follow (Discipline Mode)
