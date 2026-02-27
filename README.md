@@ -389,6 +389,15 @@ This repository is my **2026 consistency challenge** to master:
 |   3 | Common Elements of Arrays      | Sort + merge-style traversal |
 |   4 | Time Complexity Focus          | O(n), O(n log n) analysis    |
 
+### 📅 Day 41 — Stability of Sorting Algorithms (Theory)
+
+| No. | Topic                     | Core Concept / Logic              |
+| --: | ------------------------- | --------------------------------- |
+|   1 | Stable Sorting            | Maintains relative order          |
+|   2 | Bubble Sort Stability     | Adjacent swaps preserve order     |
+|   3 | Selection Sort Instability| Direct swaps break order          |
+|   4 | Concept Revision          | Theory-focused day                |
+
 ---
 
 ## 🧠 Rules I Follow (Discipline Mode)
