@@ -398,6 +398,16 @@ This repository is my **2026 consistency challenge** to master:
 |   3 | Selection Sort Instability| Direct swaps break order          |
 |   4 | Concept Revision          | Theory-focused day                |
 
+### 📅 Day 42 — Insertion Sort
+
+| No. | Topic                         | Complexity |
+|----:|--------------------------------|------------|
+| 1   | Insertion Sort (Implementation) | O(n²)     |
+| 2   | Stability of Insertion Sort     | Stable    |
+| 3   | Sorted Insert Position (GFG)    | O(n)      |
+| 4   | Floor in Sorted Array (GFG)     | O(n)      |
+| 5   | Space Complexity                | O(1)      |
+
 ---
 
 ## 🧠 Rules I Follow (Discipline Mode)
