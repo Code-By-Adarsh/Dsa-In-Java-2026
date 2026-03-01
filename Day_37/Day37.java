@@ -7,23 +7,28 @@ public class Day37 {
     }
 
     public static void isArraySorted(int[] arr){
-        for (int i=0; i<arr.length-1; i++){
+        boolean flag = true;
+        for(int i=0; i<arr.length-1; i++){
             if (arr[i] > arr[i+1]){
-                System.out.println("False");
+                flag = false;
                 break;
             }
         }
-        System.out.println("True");
+        if (flag){
+            System.out.println("Yes, brother array is sorted.");
+        }else {
+            System.out.println("Array is not sorted brother.");
+        }
     }
 
     public static void main(String[] args) {
 
         // 1st - Check array is sorted
         System.out.println(" ");
-        int[] x1 = {1,1,2,3,4,4,5,6};
+        int[] x1 = {1,1,2,3,4,4,7,6};
         System.out.print("Given Array: ");
         print(x1);
-        System.out.print("Array is sorted: ");
+        System.out.print("Answer: ");
         isArraySorted(x1);
 
         // 2nd - Bubble sort (basic)

@@ -1,6 +1,6 @@
 1st:
-Given Array: 1 1 2 3 4 4 5 6
-Array is sorted: True
+Given Array: 1 1 2 3 4 4 7 6
+Answer: Array is not sorted brother.
 
 2nd:
 Given Array: 5 1 4 3 0 -1 1 2
