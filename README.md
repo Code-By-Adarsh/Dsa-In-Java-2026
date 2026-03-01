@@ -408,6 +408,19 @@ This repository is my **2026 consistency challenge** to master:
 | 4   | Floor in Sorted Array (GFG)     | O(n)      |
 | 5   | Space Complexity                | O(1)      |
 
+### 📅 Day 43 — Weekly Revision (23 Feb – 28 Feb)
+
+| No. | Topic |
+|----:|--------------------------------------------|
+| 1   | Check if Array is Sorted |
+| 2   | Bubble Sort (Ascending) |
+| 3   | Bubble Sort (Descending) |
+| 4   | Move Zeros to End (O(n), O(1)) |
+| 5   | Sliding Window Approach (Zero Shift) |
+| 6   | Selection Sort |
+| 7   | Pair of Sum (Two Pointer - O(n)) |
+| 8   | Insertion Sort |
+
 ---
 
 ## 🧠 Rules I Follow (Discipline Mode)
