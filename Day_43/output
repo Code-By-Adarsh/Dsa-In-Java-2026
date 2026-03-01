@@ -1,0 +1,31 @@
+1st:
+Given Array: 2 4 8 9 10 35 70
+Answer: Yes, brother array is sorted.
+
+2nd:
+Given Array: 2 4 8 0 10 3 7
+Answer: 0 2 3 4 7 8 10
+
+3rd:
+Given Array: 1 4 2 5 9 0 6 5 4
+Answer: 9 6 5 5 4 4 2 1 0
+
+4rth:
+Given Array: 3 0 0 7 8 0 2 0 5
+Answer: 3 7 8 2 5 0 0 0 0
+
+5th:
+Given Array: 3 0 0 7 8 0 2 0 5
+Answer: 3 7 8 2 5 0 0 0 0
+
+6th:
+Given Array: 5 3 7 0 9 2 6 1
+Answer: 0 1 2 3 5 6 7 9
+
+7th:
+Given Array: 2 7 11 15
+Answer: [0, 2]
+
+8th:
+Given Array: 4 1 7 3 9 2 0 8
+Answer: 0 1 2 3 4 7 8 9
