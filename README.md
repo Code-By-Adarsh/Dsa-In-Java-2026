@@ -421,6 +421,16 @@ This repository is my **2026 consistency challenge** to master:
 | 7   | Pair of Sum (Two Pointer - O(n)) |
 | 8   | Insertion Sort |
 
+### 📅 Day 44 — Sorting Based Problems
+
+| No. | Topic |
+|----:|---------------------------------------|
+| 1   | K Largest Elements |
+| 2   | Minimum Swaps to Sort |
+| 3   | Binary Array Sorting |
+| 4   | Intersection of Sorted Arrays |
+| 5   | Time Complexity Optimization Focus |
+
 ---
 
 ## 🧠 Rules I Follow (Discipline Mode)
