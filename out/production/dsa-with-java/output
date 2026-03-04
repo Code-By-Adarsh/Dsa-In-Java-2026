@@ -1,0 +1,16 @@
+1st:
+Given Array: 23 56 45 98 80 11 78
+Answer: [98, 80, 78, 56]
+
+2nd:
+Given Array: 5 8 6 3 4
+Answer: 3
+
+3rd:
+Given Array: 1 0 1 1 0
+Answer: 0 0 1 1 1
+
+4rth:
+Array1: 1 2 3 4
+Array2: 2 4 6 7 8
+Answer: [2, 4]
