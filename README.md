@@ -1,3 +1,8 @@
+> **Note:**
+> I paused my daily **Java DSA practice at Day 45** after building a strong foundation in problem-solving and core concepts.
+> I am now focusing on **Software Testing, Automation (Selenium + TestNG), API testing, and SQL**, where these programming fundamentals will be applied in real-world testing scenarios.
+
+
 # DSA In Java — 2026 (Day Wise Practice)
 
 > **No regret. Only result.**
