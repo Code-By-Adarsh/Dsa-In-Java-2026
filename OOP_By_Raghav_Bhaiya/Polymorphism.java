@@ -16,11 +16,19 @@ class Animal {
     void sound(){
         System.out.println("Animal makes sound");
     }
+
+    void sound1(){
+        System.out.println("Adarsh");
+    }
 }
 
 class Dog1 extends Animal {
     void sound(){
         System.out.println("Dog barks");
+    }
+
+    void sound2(){
+        System.out.println("Mayank");
     }
 }
 
@@ -30,7 +38,7 @@ class Cat1 extends Animal {
     }
 }
 
-public class Plymorphism {
+public class Polymorphism {
     public static class Dog{
         void speak(){
             System.out.println("Bhau Bhau");
@@ -70,6 +78,8 @@ public class Plymorphism {
         Animal a1 = new Dog1();
         Animal a2 = new Cat1();
         a1.sound();
+        a1.sound1();
+        // a1.sound2();  --> nhi chalega
         a2.sound();
 
     }
@@ -122,4 +132,8 @@ Reference type → Parent
 Object type → Child
 At runtime Java decides which method to run.
 This is called Dynamic Method Dispatch.
+
+7.Method to vhi chlenge jo reference ke honge (claas/interface)
+8.aap object ke method nhi run kar skte jo reference me na ho(class/interface)
+9.bhai method override hona chaihye in case of (interface)
  */
