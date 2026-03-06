@@ -79,4 +79,8 @@ static
 default
 
 4.Static keyword humesha apne outer class ke context me lagta hai
+
+5.kya ye class sirf School ke andar hi visible ho? → private
+kya ye subclass ko bhi dikhe? → protected
+kya ye outer object ke bina bhi exist kare? → static
  */
