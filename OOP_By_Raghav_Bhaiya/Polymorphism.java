@@ -52,7 +52,7 @@ public class Polymorphism {
     }
 
     public static class Human{
-        void speak(){
+        static void speak(){
             System.out.println("Hello Hello");
         }
     }
@@ -61,20 +61,20 @@ public class Polymorphism {
 
         Cat c = new Cat();
         Dog d = new Dog();
-        Human h = new Human();
+        //Human h = new Human();
 
         c.speak();
         d.speak();
-        h.speak();
+        Human.speak();
 
-        // ---------Method overloading compile time
+        // ---------Method overloading compile time polymorphism
         Calculator cal = new Calculator();
 
         System.out.println(cal.add(2,3));       // 5
         System.out.println(cal.add(2,3,4));     // 9
         System.out.println(cal.add(2.5,3.5));   // 6.0
 
-        // ---------Method Overriding runtime
+        // ---------Method Overriding runtime polymorphism
         Animal a1 = new Dog1();
         Animal a2 = new Cat1();
         a1.sound();
